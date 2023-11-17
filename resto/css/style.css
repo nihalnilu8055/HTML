@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+/* font-family: 'Pacifico', cursive; */
+.bg{
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+  
+    text-align: center;
+    padding-top: 10px;
+ 
+    background-image: linear-gradient(0,0,0,0.75),rgba(0,0,0,0.75);
+    
+}
+img{
+    width: 100%;
+}
+div.bg h1{
+    padding-top: 100px;
+    color: rgb(36, 233, 46);
+    font-family: 'Pacifico', cursive;
+    font-size:50px;
+    font-style: italic;
+    font-weight: 100;
+    
+}
+div.bg h2{
+    color: white;
+    font-size:65px;
+}
+.flex{
+    display: flex;
+    vertical-align: middle;
+}
+ .round{
+    margin-left: 10px; 
+ }
+ .round img{
+    border-radius:30% ;
+    width: 50%;
+}
+.head{
+    margin-top: 50px;
+}
+.h1{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.food1{
+    margin-top: 50px;
+    height: 500px;
+    width: 800px;
+}
+.rnd img{
+    border-radius: 100px;
+    width: 50%;
+}
+.table{
+    color: white;
+    background-color: red;
+    border: 5px red;
+    text-align: left;
+    border-
+}
