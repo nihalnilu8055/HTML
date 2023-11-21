@@ -1,0 +1,22 @@
+.border1{
+    border: 100px solid green ;
+    background-color: green;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-bottom: 150px;
+}
+.bor{
+    margin: -50px;
+    
+}
+.border2{
+    border: 100px solid red;
+    background-color: red;
+    margin-top: -50px;
+    padding-bottom: 500px;
+}
+
+.bor2{
+    margin: -10px;
+}
