@@ -54,13 +54,40 @@
     line-height: 1cm;
     font-weight: bold;
 }
-.bottum{
+.bg1{
     background-color: bisque;
-    border: 1px solid;
-    text-align: start;
-    height: 500px;
 }
 .main{
     padding-left: 30px;
     padding-top: 100px;
+}
+.box2{
+    color: white;
+    border: 1px solid red;
+    text-decoration: none;
+    background-color: rgb(207, 148, 39);
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 2cm;
+}
+.box3{
+    color: white;
+    border: 1px solid red;
+    text-decoration: none;
+    background-color: rgb(207, 148, 39);
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 5cm;
+}
+.instagram{
+    padding-left: 200px;
+}
+.im3{
+    padding-right: 50px;
 }
