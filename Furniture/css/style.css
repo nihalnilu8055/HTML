@@ -31,9 +31,9 @@ img{
     border: 1px solid white;
     text-align: start;
     justify-content: center;
-    margin: 150PX;
+    margin: 150PX 0px 150px 150px;
     height: 500px;
-    padding: 100px;
+    padding: 100px 0px 100px 100px;
     font-size: x-large;
 }
 .box{
@@ -46,6 +46,12 @@ img{
     padding-right: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+.box:hover{
+    color: red;
+    border: 1px solid rgb(207, 148, 39);
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);  
 }
 .pop{
     margin-top: 50px;
